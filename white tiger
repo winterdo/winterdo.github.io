@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>My White Website with Image</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+	<div class="center">
+		<img src="baekho.jpg" alt="백호">
+	</div>
+</body>
+</html>
